@@ -38,7 +38,8 @@
 
 ## Статистика 📈
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaZzHaZzeR&show_icons=true&theme=dracula" alt="Статистика GitHub" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaZzHaZzeR&layout=compact&theme=dracula" alt="Топ используемых языков" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=JaZzHaZzeR&show_icons=true&theme=dracula" alt="Статистика GitHub" width="500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaZzHaZzeR&layout=compact&theme=dracula" alt="Топ используемых языков" width="500">
 
 
 ### Большое спасибо за внимание к моему профилю! 😊
