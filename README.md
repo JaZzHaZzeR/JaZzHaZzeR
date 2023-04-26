@@ -1,4 +1,4 @@
-# Привет, я Геннадий 👋
+<h1 align="center">Привет, я Геннадий 👋</h1>
 
 ## Обо мне 🧑‍💻
 
@@ -41,5 +41,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JaZzHaZzeR&show_icons=true&theme=dracula" alt="Статистика GitHub" width="500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaZzHaZzeR&layout=compact&theme=dracula" alt="Топ используемых языков" width="500">
 
-
-### Большое спасибо за внимание к моему профилю! 😊
+<hr>
+<h3 align="center">Большое спасибо за внимание к моему профилю! 😊</h3>
