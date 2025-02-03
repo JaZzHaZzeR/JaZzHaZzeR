@@ -1,10 +1,11 @@
 <h1 align="center">Привет, я Геннадий 👋</h1>
+<h3 align="center">Вечно копаюсь в коде, но люблю это дело 😎</h3>
 
 ## Обо мне 🧑‍💻
 
-Я разработчик веб-приложений.
+Я разработчик веб-приложений, который живет в мире JavaScript, TypeScript и бесконечных чашек кофе ☕.
 <br>
-Меня интересуют различные аспекты веб-разработки, включая фронтенд, бэкенд и базы данных.
+Меня интересуют различные аспекты веб-разработки, включая фронтенд, бэкенд и базы данных. А еще я люблю, когда код работает с первого раза (но это редко бывает 😅).
 
 ## Мои навыки 💪
 
@@ -32,14 +33,21 @@
 
 Если у вас есть какие-либо вопросы или предложения о сотрудничестве, пожалуйста, не стесняйтесь связаться со мной:
 
-- [![VK](https://img.shields.io/badge/VK-4a76a8?style=for-the-badge&logo=vk&logoColor=white)]([https://vk.com/](https://vk.com/escobarchik))
+- [![VK](https://img.shields.io/badge/VK-4a76a8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/escobarchik)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaZzHaZzeR)
 
 ## Статистика 📈
 
+### Общая статистика
 <img src="https://github-readme-stats.vercel.app/api?username=JaZzHaZzeR&show_icons=true&theme=dracula" alt="Статистика GitHub" width="500">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaZzHaZzeR&layout=compact&theme=dracula" alt="Топ используемых языков" width="500">
+
+### Топ языков
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaZzHaZzeR&layout=compact&theme=dracula&hide=html,css" alt="Топ используемых языков" width="500">
+
+### Статистика по TypeScript
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaZzHaZzeR&layout=compact&theme=dracula&hide=html,css,javascript" alt="Статистика TypeScript" width="500">
 
 <hr>
 <h3 align="center">Большое спасибо за внимание к моему профилю! 😊</h3>
+<h4 align="center">Если ты дочитал до сюда, то ты крутой! 🚀</h4>
