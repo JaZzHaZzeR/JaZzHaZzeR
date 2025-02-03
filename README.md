@@ -100,9 +100,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JaZzHaZzeR/JaZzHaZzeR/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="center">🙌 Большое спасибо за внимание к моему профилю! 😊</h2>
 
